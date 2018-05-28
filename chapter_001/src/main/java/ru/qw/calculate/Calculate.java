@@ -1,4 +1,4 @@
-package ru.qw.calculaate;
+package ru.qw.calculate;
 
 /**
  * Calculate.
