@@ -1,4 +1,4 @@
 package ru.qw.calculate
 
-class CalculateTestTest {
+class CalculateTestTest extends groovy.util.GroovyTestCase {
 }
